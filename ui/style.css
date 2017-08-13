@@ -19,4 +19,13 @@ body {
 .img-medium {
     height: 200px;
 }
+     .container {
+    max-widh: 800px;
+    margin: 0 auto;
+    color: rosybrown;
+    font-family: cursive;
+    padding-top: 60PX;
+    PADDING-LEFT: 20PX;
+    PADDING-RIGHT: 20PX;
+}
 
